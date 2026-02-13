@@ -60,7 +60,7 @@ noBtn.addEventListener("mouseover", () => {
 // YES is clicked
 
 yesBtn.addEventListener("click", () => {
-    title.textContent = "મને તો ખબરજ હતી કે તમે હા જ કહેશો!";
+    title.textContent = "મને તો ખબરજ છે કે તમે Yes જ કીધું હશે!";
 
     catImg.src = "cat_dance.gif";
 
